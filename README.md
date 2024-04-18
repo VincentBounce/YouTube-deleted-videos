@@ -1,12 +1,20 @@
-# YouTube-deleted-videos
+# ❌YouTube deleted videos
 
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
 
 https://web.archive.org/web/20200727163058/https://www.youtube.com/watch?v=az8vxwMXV5w
 
+## 2021-06-01 @Julien Roman - J'ai investi 1000$ dans AI MARKETING ! Je fais 50$ par jour!💔
+
+https://web.archive.org/web/20210709185722/https://www.youtube.com/watch?v=G7kvA10PnlY
+
 ## 2021-10-15 @l'Observateur - Ce que Zemmour n'a pas compris ( et pourquoi il devrait m'écouter )
 
 https://web.archive.org/web/20211015180204/https://www.youtube.com/watch?v=n8SVVKBx9Gw
+
+## 2021-11-09 @Julien Roman - 💰 AI MARKETING - 4 MOIS APRES? BON PLAN? FAUX PLAN? Mon avis sur ce site 💰
+
+https://web.archive.org/web/20221212010406/https://www.youtube.com/watch?v=CQtsDc67LlQ NO_PAGE
 
 ## 2021-12-23 @CryptoRizon - SUR QUELLES CRYPTOS INVESTIR EN 2022 ? JE VOUS EXPLIQUE MON MONEY MANAGEMENT + ICO GALEON !
 
