@@ -4,9 +4,25 @@
 
 https://web.archive.org/web/20200727163058/https://www.youtube.com/watch?v=az8vxwMXV5w
 
-## 2021-06-01 @Julien Roman - J'ai investi 1000$ dans AI MARKETING ! Je fais 50$ par jour!💔
+## 2021 @Oseille TV - Je dévoile mon portefeuille CRYPTO [bcp de Terra/Luna]
+
+https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw NO_PAGE
+
+## 2021-03-23 @Julien Roman - Celsius, TUTO Complet de l'application Celsius pas à pas
+
+https://web.archive.org/web/20210323165956/https://www.youtube.com/watch?v=ApwGTU83yqI
+
+## 2021-03-24 @Oseille TV - Revenus passifs grâce aux Cryptos, Tutoriel Celsius Network
+
+https://www.youtube.com/watch?v=kFUWmzFIaKg NOT_IN_WAYBACK_MACHINE
+
+## 2021-06-01 @Julien Roman - J'ai investi 1000$ dans AI MARKETING ! Je fais 50$ par jour!
 
 https://web.archive.org/web/20210709185722/https://www.youtube.com/watch?v=G7kvA10PnlY
+
+## 2021-08-27 @Oseille TV - Mieux que le Livret A 20% d intérêts avec Anchor (Tutoriel)
+
+https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd0dyB00 PAGE_ONLY
 
 ## 2021-10-15 @l'Observateur - Ce que Zemmour n'a pas compris ( et pourquoi il devrait m'écouter )
 
