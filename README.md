@@ -12,7 +12,7 @@ https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_
 
 https://web.archive.org/web/20200727163058/https://www.youtube.com/watch?v=az8vxwMXV5w
 
-## 2021 @Oseille TV - Je dévoile mon portefeuille CRYPTO [bcp de Terra/Luna]
+## 2021-12-01 @Oseille TV - Je dévoile mon portefeuille CRYPTO [bcp de Terra/Luna]
 
 https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw NO_PAGE
 
