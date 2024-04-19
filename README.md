@@ -1,4 +1,12 @@
-# ❌YouTube deleted videos
+# ❌YouTube deleted videos | Date ascending
+
+## 2014-07-21 @VoyAtari - Numen demo by Taquart - Atari XL/XE (full length HQ)
+
+https://web.archive.org/web/20190115084251/https://www.youtube.com/watch?v=HVuEd742Yyg
+
+## 2015-01-17 @VoyAtari - Near by Agenda (Atari XL/XE 128kB) [720p50]
+
+https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_811b4o
 
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
 
@@ -27,6 +35,10 @@ https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd
 ## 2021-10-15 @l'Observateur - Ce que Zemmour n'a pas compris ( et pourquoi il devrait m'écouter )
 
 https://web.archive.org/web/20211015180204/https://www.youtube.com/watch?v=n8SVVKBx9Gw
+
+## 2021-10-17 @GAC - “Bitcoin, c’est ultra simple!” [Idriss Aberkane]
+
+https://web.archive.org/web/20220603220925/https://www.youtube.com/watch?v=%5fDMtNC7RJFE
 
 ## 2021-11-09 @Julien Roman - 💰 AI MARKETING - 4 MOIS APRES? BON PLAN? FAUX PLAN? Mon avis sur ce site 💰
 
