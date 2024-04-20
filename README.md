@@ -62,8 +62,8 @@ https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z
 
 ## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
 
-https://youtu.be/HCYwWudJxho
+https://youtu.be/HCYwWudJxho UNLISTED
 
 ## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
 
-https://youtu.be/UobmLsDbiTg
+https://youtu.be/UobmLsDbiTg UNLISTED
