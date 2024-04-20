@@ -18,7 +18,7 @@ https://web.archive.org/web/20210323165956/https://www.youtube.com/watch?v=ApwGT
 
 ## 2021-03-24 @Oseille TV - Revenus passifs grâce aux Cryptos, Tutoriel Celsius Network
 
-https://www.youtube.com/watch?v=kFUWmzFIaKg NOT_IN_WAYBACK_MACHINE
+https://www.youtube.com/watch?v=kFUWmzFIaKg ❌NOT_IN_WAYBACK_MACHINE
 
 ## 2021-06-01 @Julien Roman - J'ai investi 1000$ dans AI MARKETING ! Je fais 50$ par jour!
 
