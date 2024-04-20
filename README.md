@@ -1,4 +1,4 @@
-# ❌YouTube deleted videos | Date ascending
+# ❌YouTube deleted/unlisted videos | Date ascending
 
 ## 2014-07-21 @VoyAtari - Numen demo by Taquart - Atari XL/XE (full length HQ)
 
@@ -59,3 +59,11 @@ https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEge
 ## 2022-01-17 @MoneyRadar - TERRA LUNA - LA BLOCKCHAIN QUI CRÉE DES MILLIONAIRES
 
 https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0 ❌NO_VIDEO | ✅PAGE_ONLY
+
+## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
+
+https://youtu.be/HCYwWudJxho
+
+## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
+
+https://youtu.be/UobmLsDbiTg
