@@ -8,6 +8,10 @@ https://web.archive.org/web/20190115084251/https://www.youtube.com/watch?v=HVuEd
 
 https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_811b4o
 
+## 2018-01-05 @Futurism - This Forklift Moves In Any Direction!
+
+https://web.archive.org/web/20220614052523/https://www.youtube.com/watch?v=0DBXuZv38l8
+
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
 
 https://web.archive.org/web/20200727163058/https://www.youtube.com/watch?v=az8vxwMXV5w
