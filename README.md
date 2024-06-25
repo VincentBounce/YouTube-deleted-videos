@@ -75,3 +75,7 @@ https://youtu.be/HCYwWudJxho UNLISTED
 ## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
 
 https://youtu.be/UobmLsDbiTg UNLISTED
+
+## 2024-06-03 @ROBOT ERA - Sideshow Collectibles Tease | Prime 1 Studio Batman | Monsterpalooza | Chatter That Matters
+
+https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhElUQqwg ❌NO_VIDEO | ✅PAGE_ONLY
