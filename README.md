@@ -78,7 +78,7 @@ https://youtu.be/UobmLsDbiTg UNLISTED
 
 ## 2023-12-25 @Cannizzaro - Clock with Invisible Mechanism Using Arduino
 
-https://web.archive.org/web/20240426042256/https://www.youtube.com/watch?v=3jJTSX4J-xI ❌NO_VIDEO | ✅PAGE_ONLY
+https://web.archive.org/web/20240426042256/https://www.youtube.com/watch?v=3jJTSX4J-xI ❌NO_VIDEO | ✅PAGE_ONLY \
 by https://web.archive.org/web/20240426042256/https://www.youtube.com/@iamcannizzaro
 
 ## 2024-06-03 @ROBOT ERA - Sideshow Collectibles Tease | Prime 1 Studio Batman | Monsterpalooza | Chatter That Matters
