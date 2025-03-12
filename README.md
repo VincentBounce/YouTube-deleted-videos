@@ -22,11 +22,11 @@ https://web.archive.org/web/20210323165956/https://www.youtube.com/watch?v=ApwGT
 
 ## 2021-03-24 @Oseille TV - Revenus passifs grâce aux Cryptos, Tutoriel Celsius Network
 
-https://youtu.be/kFUWmzFIaKg ❌NOT_IN_WAYBACK_MACHINE | ❌NO_VIDEO | ❌NO_PAGE
+https://youtu.be/kFUWmzFIaKg ❌VIDEO_DELETED_NOTHING_ARCHIVED
 
 ## 2021-05-28 Xbox tutorial
 
-https://youtu.be/N6I-NI5EiyU ❌NOT_IN_WAYBACK_MACHINE | ❌NO_VIDEO | ❌NO_PAGE
+https://youtu.be/N6I-NI5EiyU ❌VIDEO_DELETED_NOTHING_ARCHIVED
 
 ## 2021-06-01 @Julien Roman - J'ai investi 1000$ dans AI MARKETING ! Je fais 50$ par jour!
 
@@ -34,7 +34,7 @@ https://web.archive.org/web/20210709185722/https://www.youtube.com/watch?v=G7kvA
 
 ## 2021-08-27 @Oseille TV - Mieux que le Livret A 20% d intérêts avec Anchor (Tutoriel)
 
-https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd0dyB00 ❌NO_VIDEO | ✅PAGE_ONLY
+https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd0dyB00 💬VIDEO_DELETED_PAGE_ARCHIVED
 
 ## 2021-10-15 @l'Observateur - Ce que Zemmour n'a pas compris ( et pourquoi il devrait m'écouter )
 
@@ -46,15 +46,15 @@ https://web.archive.org/web/20220603220925/https://www.youtube.com/watch?v=%5fDM
 
 ## 2021-11-09 @Julien Roman - 💰 AI MARKETING - 4 MOIS APRES? BON PLAN? FAUX PLAN? Mon avis sur ce site 💰
 
-https://web.archive.org/web/20221212010406/https://www.youtube.com/watch?v=CQtsDc67LlQ ❌NO_VIDEO | ❌NO_PAGE
+https://web.archive.org/web/20221212010406/https://www.youtube.com/watch?v=CQtsDc67LlQ ⤴️VIDEO_DELETED_LINK_ARCHIVED
 
 ## 2021-12-01 @Oseille TV - Je dévoile mon portefeuille CRYPTO [bcp de Terra/Luna]
 
-https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw ❌NO_VIDEO | ❌NO_PAGE
+https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw ⤴️VIDEO_DELETED_LINK_ARCHIVED
 
 ## 2021-12-23 @CryptoRizon - SUR QUELLES CRYPTOS INVESTIR EN 2022 ? JE VOUS EXPLIQUE MON MONEY MANAGEMENT + ICO GALEON !
 
-https://web.archive.org/web/20220925102100/https://www.youtube.com/watch?v=pJfXU3YDwg8 ❌NO_VIDEO | ✅PAGE_ONLY
+https://web.archive.org/web/20220925102100/https://www.youtube.com/watch?v=pJfXU3YDwg8 💬VIDEO_DELETED_PAGE_ARCHIVED
 
 ## 2021-12-24 @Enter The Crypto Matrix - BITCOIN & ALTCOINS le PÈRE NOËL PASSE en AVANCE 🔥 🚀
 
@@ -62,25 +62,25 @@ https://web.archive.org/web/20211224105626/https://www.youtube.com/watch?v=OtzZ8
 
 ## 2022-01-16 @Matthieu Louvet - S'investir - Bitpanda : La Meilleure Stratégie Crypto (long-terme & passif !)
 
-https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEgeoZD6Q0 ❌NO_VIDEO | ✅PAGE_ONLY
+https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEgeoZD6Q0 💬VIDEO_DELETED_PAGE_ARCHIVED
 
 ## 2022-01-17 @MoneyRadar - TERRA LUNA - LA BLOCKCHAIN QUI CRÉE DES MILLIONAIRES
 
-https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0 ❌NO_VIDEO | ✅PAGE_ONLY
+https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0 💬VIDEO_DELETED_PAGE_ARCHIVED
 
 ## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
 
-https://youtu.be/HCYwWudJxho UNLISTED
+https://youtu.be/HCYwWudJxho 🥷🏻UNLISTED
 
 ## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
 
-https://youtu.be/UobmLsDbiTg UNLISTED
+https://youtu.be/UobmLsDbiTg 🥷🏻UNLISTED
 
 ## 2023-12-25 @Cannizzaro - Clock with Invisible Mechanism Using Arduino
 
-https://web.archive.org/web/20240426042256/https://www.youtube.com/watch?v=3jJTSX4J-xI ❌NO_VIDEO | ✅PAGE_ONLY \
+https://web.archive.org/web/20240426042256/https://www.youtube.com/watch?v=3jJTSX4J-xI 💬VIDEO_DELETED_PAGE_ARCHIVED \
 by https://web.archive.org/web/20240426042256/https://www.youtube.com/@iamcannizzaro
 
 ## 2024-06-03 @ROBOT ERA - Sideshow Collectibles Tease | Prime 1 Studio Batman | Monsterpalooza | Chatter That Matters
 
-https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhElUQqwg ❌NO_VIDEO | ✅PAGE_ONLY
+https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhElUQqwg 💬VIDEO_DELETED_PAGE_ARCHIVED
