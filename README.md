@@ -18,7 +18,7 @@ https://youtu.be/UobmLsDbiTg
 ---
 ---
 
-# `✅VIDEO_DELETED_FULLY_ARCHIVED`
+# `✅DELETED_VIDEO_FULLY_ARCHIVED`
 
 ## 2012-10-22 @OtakuChest - Prince of Persia (1989) MS-DOS PC Game Playthrough
 
@@ -68,7 +68,7 @@ https://web.archive.org/web/20211224105626/https://www.youtube.com/watch?v=OtzZ8
 ---
 ---
 
-# `💬VIDEO_DELETED_PAGE_ARCHIVED`
+# `💬DELETED_VIDEO_PAGE_ARCHIVED`
 
 ## 2018-01-21 @France 2 - Franky Zapata, voler à tout prix
 
@@ -107,7 +107,7 @@ https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhE
 ---
 ---
 
-# `⤴️VIDEO_DELETED_LINK_ARCHIVED`
+# `⤴️DELETED_VIDEO_LINK_ARCHIVED`
 
 ## 2021-11-09 @Julien Roman - 💰 AI MARKETING - 4 MOIS APRES? BON PLAN? FAUX PLAN? Mon avis sur ce site 💰
 
@@ -125,7 +125,7 @@ https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVc
 ---
 ---
 
-# `❌VIDEO_DELETED_NOTHING_ARCHIVED`
+# `❌DELETED_VIDEO_NOTHING_ARCHIVED`
 
 ## ≤2020-02-20 COMMENT MONTER UNE VIDEO (facile et gratuit)
 
