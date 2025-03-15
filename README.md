@@ -32,6 +32,10 @@ https://web.archive.org/web/20190115084251/https://www.youtube.com/watch?v=HVuEd
 
 https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_811b4o
 
+## 2017-01-17 @TempestWay - Mario Kart DS (DS) Every Grand Prix / 150cc [1080p]
+
+https://web.archive.org/web/20200926165742/https://www.youtube.com/watch?v=mGcXXOypSEw
+
 ## 2018-01-05 @Futurism - This Forklift Moves In Any Direction!
 
 https://web.archive.org/web/20220614052523/https://www.youtube.com/watch?v=0DBXuZv38l8
@@ -43,6 +47,10 @@ https://web.archive.org/web/20201130110353/https://www.youtube.com/watch?v=iFnOL
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
 
 https://web.archive.org/web/20200727163058/https://www.youtube.com/watch?v=az8vxwMXV5w
+
+## 2020-08-10 @Game Nation 4k - Contra Game Evolution [1987-2020] | Contra (Probotector, Gryzor) Evolution [1987-2020]
+
+https://web.archive.org/web/20220410020733/https://www.youtube.com/watch?v=K5NGaCL4bCg
 
 ## 2021-03-23 @Julien Roman - Celsius, TUTO Complet de l'application Celsius pas à pas
 
@@ -126,6 +134,22 @@ https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVc
 ---
 
 # `❌DELETED_VIDEO_NOTHING_ARCHIVED`
+
+## New Super Luigi Bros. - Wii
+
+https://youtu.be/_GIHrCN8wks
+
+## Bionic Commando (2009) - PC - 1-3 - Playthrough
+
+https://youtu.be/f5EVaVFRPKw
+
+## 1996 Leisure Suit Larry 7- Love for Sail - DOS MacOS
+
+https://youtu.be/ZwSIkkMUIg8&list=PLbva9Q_FRdb6AwrTDDfhrk9bK3DN642o3
+
+## 2009 Leisure Suit Larry 9- Box Office Bust - PC PS3 Xbox360
+
+https://youtu.be/zPhEKdyTccc
 
 ## ≤2020-02-20 COMMENT MONTER UNE VIDEO (facile et gratuit)
 
