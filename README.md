@@ -14,7 +14,7 @@ https://web.archive.org/web/20220614052523/https://www.youtube.com/watch?v=0DBXu
 
 ## 2018-01-21 @France 2 - Franky Zapata, voler à tout prix
 
-💬VIDEO_DELETED_PAGE_ARCHIVED \
+`💬VIDEO_DELETED_PAGE_ARCHIVED` \
 https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpPAx4vHg&feature=youtu.be 
 
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
