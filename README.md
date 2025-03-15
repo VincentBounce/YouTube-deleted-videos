@@ -1,4 +1,28 @@
-# 🗑️YouTube deleted videos `✅VIDEO_DELETED_FULLY_ARCHIVED`
+# 🗑️YouTube unlisted/deleted videos 
+
+---
+---
+---
+
+# `🥷🏻UNLISTED_VIDEO`
+
+## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
+
+https://youtu.be/HCYwWudJxho
+
+## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
+
+https://youtu.be/UobmLsDbiTg
+
+---
+---
+---
+
+# `✅VIDEO_DELETED_FULLY_ARCHIVED`
+
+## 2012-10-22 @OtakuChest - Prince of Persia (1989) MS-DOS PC Game Playthrough
+
+https://web.archive.org/web/20140329010033/http://www.youtube.com/watch?v=Xv20j8ChtRY
 
 ## 2014-07-21 @VoyAtari - Numen demo by Taquart - Atari XL/XE (full length HQ)
 
@@ -11,6 +35,10 @@ https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_
 ## 2018-01-05 @Futurism - This Forklift Moves In Any Direction!
 
 https://web.archive.org/web/20220614052523/https://www.youtube.com/watch?v=0DBXuZv38l8
+
+## 2018-10-13 @Minase - [60FPS] DOOM (1993) LONGPLAY
+
+https://web.archive.org/web/20201130110353/https://www.youtube.com/watch?v=iFnOLFd_ByQ
 
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
 
@@ -40,11 +68,15 @@ https://web.archive.org/web/20211224105626/https://www.youtube.com/watch?v=OtzZ8
 ---
 ---
 
-# 🗑️YouTube deleted videos `💬VIDEO_DELETED_PAGE_ARCHIVED`
+# `💬VIDEO_DELETED_PAGE_ARCHIVED`
 
 ## 2018-01-21 @France 2 - Franky Zapata, voler à tout prix
 
 https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpPAx4vHg&feature=youtu.be 
+
+## 2019-01-27 @Yugen France - L'Histoire de l'Univers en 10 minutes
+
+https://web.archive.org/web/20220625012822/https://www.youtube.com/watch?v=Jd36tqdPlYE
 
 ## 2021-08-27 @Oseille TV - Mieux que le Livret A 20% d intérêts avec Anchor (Tutoriel)
 
@@ -58,7 +90,7 @@ https://web.archive.org/web/20220925102100/https://www.youtube.com/watch?v=pJfXU
 
 https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEgeoZD6Q0
 
-## 2022-01-17 @MoneyRadar - TERRA LUNA - LA BLOCKCHAIN QUI CRÉE DES MILLIONAIRES
+## 2022-01-17 @MoneyRadar - 🚀 TERRA LUNA - LA BLOCKCHAIN QUI CRÉE DES MILLIONAIRES
 
 https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0
 
@@ -75,44 +107,38 @@ https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhE
 ---
 ---
 
-# 🗑️YouTube deleted videos `⤴️VIDEO_DELETED_LINK_ARCHIVED`
+# `⤴️VIDEO_DELETED_LINK_ARCHIVED`
 
 ## 2021-11-09 @Julien Roman - 💰 AI MARKETING - 4 MOIS APRES? BON PLAN? FAUX PLAN? Mon avis sur ce site 💰
 
-`⤴️VIDEO_DELETED_LINK_ARCHIVED` \
 https://web.archive.org/web/20221212010406/https://www.youtube.com/watch?v=CQtsDc67LlQ
 
 ## 2021-12-01 @Oseille TV - Je dévoile mon portefeuille CRYPTO [bcp de Terra/Luna]
 
-`⤴️VIDEO_DELETED_LINK_ARCHIVED` \
 https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw
 
+## 30 Graphically Impressive DOS games from the 90's - MS-DOS gaming - DOSBOX (best graphics)
+
+https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVcM_-Q54
+
 ---
 ---
 ---
 
-# 🗑️YouTube deleted videos `❌VIDEO_DELETED_NOTHING_ARCHIVED`
+# `❌VIDEO_DELETED_NOTHING_ARCHIVED`
+
+## ≤2020-02-20 COMMENT MONTER UNE VIDEO (facile et gratuit)
+
+https://youtu.be/%5fvLJhjS-LQY
+
+## ≤2020-03-31 Maud Poudat, avocate en immigration aux USA
+
+https://youtu.be/GvumvzgTedc
 
 ## 2021-03-24 @Oseille TV - Revenus passifs grâce aux Cryptos, Tutoriel Celsius Network
 
-`❌VIDEO_DELETED_NOTHING_ARCHIVED` \
 https://youtu.be/kFUWmzFIaKg
 
 ## 2021-05-28 Xbox tutorial
 
-`❌VIDEO_DELETED_NOTHING_ARCHIVED` \
 https://youtu.be/N6I-NI5EiyU
-
----
----
----
-
-# 🗑️YouTube `🥷🏻UNLISTED` videos
-
-## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
-
-https://youtu.be/HCYwWudJxho
-
-## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
-
-https://youtu.be/UobmLsDbiTg
