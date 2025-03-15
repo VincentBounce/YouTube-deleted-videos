@@ -37,6 +37,8 @@ https://web.archive.org/web/20220603220925/https://www.youtube.com/watch?v=%5fDM
 https://web.archive.org/web/20211224105626/https://www.youtube.com/watch?v=OtzZ8hXlLso
 
 ---
+---
+---
 
 # 🗑️YouTube deleted videos `💬VIDEO_DELETED_PAGE_ARCHIVED`
 
@@ -70,6 +72,8 @@ by https://web.archive.org/web/20240426042256/https://www.youtube.com/@iamcanniz
 https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhElUQqwg
 
 ---
+---
+---
 
 # 🗑️YouTube deleted videos `⤴️VIDEO_DELETED_LINK_ARCHIVED`
 
@@ -84,6 +88,8 @@ https://web.archive.org/web/20221212010406/https://www.youtube.com/watch?v=CQtsD
 https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw
 
 ---
+---
+---
 
 # 🗑️YouTube deleted videos `❌VIDEO_DELETED_NOTHING_ARCHIVED`
 
@@ -97,6 +103,8 @@ https://youtu.be/kFUWmzFIaKg
 `❌VIDEO_DELETED_NOTHING_ARCHIVED` \
 https://youtu.be/N6I-NI5EiyU
 
+---
+---
 ---
 
 # 🗑️YouTube `🥷🏻UNLISTED` videos
