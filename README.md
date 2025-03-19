@@ -152,8 +152,6 @@ https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVc
 
 # `❌DELETED_VIDEO_NOTHING_ARCHIVED`
 
-
-
 ## Wolfenstein II- The New Colossus - Walkthrough Part 1 - [4K-60FPS]
 
 https://youtu.be/SIhLR2ytYks
@@ -193,3 +191,7 @@ https://youtu.be/kFUWmzFIaKg
 ## 2021-05-28 Xbox tutorial
 
 https://youtu.be/N6I-NI5EiyU
+
+## Misc
+
+https://youtu.be/CQtsDc67LlQ
