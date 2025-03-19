@@ -83,6 +83,10 @@ https://web.archive.org/web/20211224105626/https://www.youtube.com/watch?v=OtzZ8
 
 # `💬DELETED_VIDEO_PAGE_ARCHIVED`
 
+## 2017-09-28 @Sonic800 - Sonic Mania (PC) - Full "Sonic & Tails" Playthrough
+
+https://web.archive.org/web/20191101025721/https://www.youtube.com/watch?v=RtkKgsbnOGs&gl=US&hl=en
+
 ## 2018-01-21 @France 2 - Franky Zapata, voler à tout prix
 
 https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpPAx4vHg&feature=youtu.be 
