@@ -29,9 +29,17 @@ https://web.archive.org/web/20140329010033/http://www.youtube.com/watch?v=Xv20j8
 
 https://web.archive.org/web/20190115084251/https://www.youtube.com/watch?v=HVuEd742Yyg
 
+## 2014-09-26 @Memories in 8Bit - NES cartridge battery replacement
+
+https://web.archive.org/web/20201123182052/https://www.youtube.com/watch?v=sEBtFidx3zY
+
 ## 2015-01-17 @VoyAtari - Near by Agenda (Atari XL/XE 128kB) [720p50]
 
 https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_811b4o
+
+## 2016-10-25 @Team Trash - Le MEILLEUR SONIC EN 3D : SONIC UTOPIA
+
+https://web.archive.org/web/20170903104451/https://www.youtube.com/watch?v=asr-bvvG2M0
 
 ## 2017-01-17 @TempestWay - Mario Kart DS (DS) Every Grand Prix / 150cc [1080p]
 
@@ -145,6 +153,10 @@ https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVc
 ## Wolfenstein- The New Order - LongPlay [4K-60FPS]
 
 [https://youtu.be/6kfG5B_hj2A](https://web.archive.org/web/20201014193504/https://www.youtube.com/watch?v=6kfG5B_hj2A&feature=youtu.be)
+
+## Misc
+
+https://web.archive.org/web/20221126120948/https://www.youtube.com/watch?v=ytsG09_8uDQ
 
 ---
 ---
