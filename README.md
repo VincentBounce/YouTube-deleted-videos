@@ -95,6 +95,10 @@ https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpP
 
 https://web.archive.org/web/20220625012822/https://www.youtube.com/watch?v=Jd36tqdPlYE
 
+## 2021-03-15 @Anastasi In Tech - Top Coursera Courses for Electrical Engineers & Hardware Engineers
+
+https://web.archive.org/web/20230324000730/https://www.youtube.com/watch?v=3GT3gh92tmc
+
 ## 2021-08-27 @Oseille TV - Mieux que le Livret A 20% d intérêts avec Anchor (Tutoriel)
 
 https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd0dyB00
