@@ -1,4 +1,5 @@
-# 🗑️YouTube unlisted/deleted videos 
+# 🗑️YouTube unlisted/deleted videos
+
 
 ---
 ---
@@ -43,6 +44,10 @@ https://web.archive.org/web/20220614052523/https://www.youtube.com/watch?v=0DBXu
 ## 2018-10-13 @Minase - [60FPS] DOOM (1993) LONGPLAY
 
 https://web.archive.org/web/20201130110353/https://www.youtube.com/watch?v=iFnOLFd_ByQ
+
+## 2019-06-16 @BasildoomHD - Doom 4 Remake Looks Better With RTX On
+
+https://web.archive.org/web/20200915214315/https://www.youtube.com/watch?v=6r_-ZJjtmKo
 
 ## 2020-07-27 @l'Observateur - Comprendre le Libéralisme - Partie 2 - Justice, propriété & confiance
 
@@ -129,11 +134,25 @@ https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MR
 
 https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVcM_-Q54
 
+## Wolfenstein- The New Order - LongPlay [4K-60FPS]
+
+[https://youtu.be/6kfG5B_hj2A](https://web.archive.org/web/20201014193504/https://www.youtube.com/watch?v=6kfG5B_hj2A&feature=youtu.be)
+
 ---
 ---
 ---
 
 # `❌DELETED_VIDEO_NOTHING_ARCHIVED`
+
+
+
+## Wolfenstein II- The New Colossus - Walkthrough Part 1 - [4K-60FPS]
+
+https://youtu.be/SIhLR2ytYks
+
+## Sonic The Hedgehog 4 Episode I [PC-iOS-Android]
+
+https://youtu.be/PtjIdbWsG_E
 
 ## New Super Luigi Bros. - Wii
 
