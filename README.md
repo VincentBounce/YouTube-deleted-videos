@@ -1,11 +1,22 @@
 # 🗑️YouTube unlisted/deleted videos
 
-
 ---
 ---
 ---
 
 # `🥷🏻UNLISTED_VIDEO`
+
+## 2017-08-04 @MIT Media Lab - DeepMoji
+
+https://youtu.be/u_JwYxtjzUs
+
+## 2018-02-18 @LongplayArchive - Longplay of Mega Man [Old]
+
+https://youtu.be/Gi1u_STll0o
+
+## 2020-11-02 @Honda Global - ASIMO 20th Anniversary
+
+https://youtu.be/sIIUMLC3XfU
 
 ## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
 
@@ -107,6 +118,10 @@ https://web.archive.org/web/20240117202340/https://www.youtube.com/watch?v=BNSZ8
 
 # `💬DELETED_VIDEO_PAGE_ARCHIVED`
 
+## 2016-05-24 @Synn - Shock Troopers- 2nd Squad (Complete Playthrough)
+
+https://web.archive.org/web/20201214073225/https://www.youtube.com/watch?v=P-htRhTXkyw
+
 ## 2017-09-28 @Sonic800 - Sonic Mania (PC) - Full "Sonic & Tails" Playthrough
 
 https://web.archive.org/web/20191101025721/https://www.youtube.com/watch?v=RtkKgsbnOGs&gl=US&hl=en
@@ -118,6 +133,10 @@ https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpP
 ## 2019-01-27 @Yugen France - L'Histoire de l'Univers en 10 minutes
 
 https://web.archive.org/web/20220625012822/https://www.youtube.com/watch?v=Jd36tqdPlYE
+
+## 2019-08-13 @OldSchoolGameDork - Street Fighter 30th Anniversary Collection (PS4) - Gameplay from ALL 12 Games
+
+https://web.archive.org/web/20240408235706/https://www.youtube.com/watch?v=C7Fyu-Rpj2g
 
 ## 2021-03-15 @Anastasi In Tech - Top Coursera Courses for Electrical Engineers & Hardware Engineers
 
@@ -180,22 +199,6 @@ https://web.archive.org/web/20221126120948/https://www.youtube.com/watch?v=ytsG0
 
 # `❌DELETED_VIDEO_NOTHING_ARCHIVED`
 
-## Wolfenstein II- The New Colossus - Walkthrough Part 1 - [4K-60FPS]
-
-https://youtu.be/SIhLR2ytYks
-
-## Sonic The Hedgehog 4 Episode I [PC-iOS-Android]
-
-https://youtu.be/PtjIdbWsG_E
-
-## New Super Luigi Bros. - Wii
-
-https://youtu.be/_GIHrCN8wks
-
-## Bionic Commando (2009) - PC - 1-3 - Playthrough
-
-https://youtu.be/f5EVaVFRPKw
-
 ## 1996 Leisure Suit Larry 7- Love for Sail - DOS MacOS
 
 https://youtu.be/ZwSIkkMUIg8&list=PLbva9Q_FRdb6AwrTDDfhrk9bK3DN642o3
@@ -220,9 +223,31 @@ https://youtu.be/kFUWmzFIaKg
 
 https://youtu.be/N6I-NI5EiyU
 
+## Wolfenstein II- The New Colossus - Walkthrough Part 1 - [4K-60FPS]
+
+https://youtu.be/SIhLR2ytYks
+
+## Sonic The Hedgehog 4 Episode I [PC-iOS-Android]
+
+https://youtu.be/PtjIdbWsG_E
+
+## New Super Luigi Bros. - Wii
+
+https://youtu.be/_GIHrCN8wks
+
+## Bionic Commando (2009) - PC - 1-3 - Playthrough
+
+https://youtu.be/f5EVaVFRPKw
+
+## COMPIL Street Fighter Collection 2 - PSX	Capcom & SNK
+
+https://youtu.be/N3wPeYUM2dQ
+
 ## Misc
 
 https://youtu.be/CQtsDc67LlQ
+
+https://youtu.be/afWk1frjoHU
 
 ---
 ---
@@ -231,3 +256,5 @@ https://youtu.be/CQtsDc67LlQ
 # ❓DELETED_VIDEO_LOST_LINK
 
 ## 2015-02-23 @Oussama Ammar - Epitech 3h
+
+## 10 Most Shocking And Horrifying Moments Caught On Camera (Lutch Green Reupload).mp4
