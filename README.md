@@ -89,6 +89,18 @@ https://web.archive.org/web/20220603220925/https://www.youtube.com/watch?v=%5fDM
 
 https://web.archive.org/web/20211224105626/https://www.youtube.com/watch?v=OtzZ8hXlLso
 
+## 2023-05-29 @Unitree Robotics -【Unitree B-W】Superior Speed Versatility Wheel-legged Robot
+
+https://web.archive.org/web/20240325204809/https://www.youtube.com/watch?v=mvseKO9W3vg
+
+## 2023-10-27 @XPENG Robotics - Dexterous Robot Hand Showcase
+
+https://web.archive.org/web/20240309070911/https://www.youtube.com/watch?v=_q5vFhWiZnA
+
+## 2023-10-27 @XPENG Robotics - PX5 Prototype Showcase
+
+https://web.archive.org/web/20240117202340/https://www.youtube.com/watch?v=BNSZ8Fwcd20
+
 ---
 ---
 ---
