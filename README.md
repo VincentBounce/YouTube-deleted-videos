@@ -223,6 +223,18 @@ https://youtu.be/kFUWmzFIaKg
 
 https://youtu.be/N6I-NI5EiyU
 
+## 2022-02-25 Dubai Marina Walk by Night [No commentary 60fps 1080p]
+
+https://www.youtube.com/watch?v=ahW-X0eZLuo&t=121s
+
+## 2022-03-07 Palm Jumeirah Crescent Walk [No commentary 60fps 1080p]
+
+https://www.youtube.com/watch?v=7FZ-0Q9208I&t=728s
+
+## 2022-03-08 Dubai Marina Walk Daylight [No commentary 60fps 1080p]
+
+https://www.youtube.com/watch?v=spL0ThlX1oM&t=388s
+
 ## Wolfenstein II- The New Colossus - Walkthrough Part 1 - [4K-60FPS]
 
 https://youtu.be/SIhLR2ytYks
