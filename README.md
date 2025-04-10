@@ -18,6 +18,10 @@ https://youtu.be/Gi1u_STll0o
 
 https://youtu.be/sIIUMLC3XfU
 
+## 2022-07-13 @France Identité - Présentation de l'application France Identité
+
+https://youtu.be/03qgI3WL2_8
+
 ## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
 
 https://youtu.be/HCYwWudJxho
@@ -59,6 +63,10 @@ https://web.archive.org/web/20170903104451/https://www.youtube.com/watch?v=asr-b
 ## 2017-01-17 @TempestWay - Mario Kart DS (DS) Every Grand Prix / 150cc [1080p]
 
 https://web.archive.org/web/20200926165742/https://www.youtube.com/watch?v=mGcXXOypSEw
+
+## 2017-02-17 @RT - Forget hoverboards! World's first fully-manned hoverbike tested in Moscow
+
+https://web.archive.org/web/20170217123215/https://www.youtube.com/watch?v=BJg-3uJWJvo&gl=US&hl=en
 
 ## 2018-01-05 @Futurism - This Forklift Moves In Any Direction!
 
