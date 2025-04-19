@@ -120,6 +120,14 @@ https://web.archive.org/web/20240309070911/https://www.youtube.com/watch?v=_q5vF
 
 https://web.archive.org/web/20240117202340/https://www.youtube.com/watch?v=BNSZ8Fwcd20
 
+## 2023-10-31 @ARTE - Capitalisme américain, le culte de la richesse 2/3
+
+https://web.archive.org/web/20241223123930/https://www.youtube.com/watch?v=uccQqNg2tF8
+
+## 2024-03-01 @ARTE - La Bombe
+
+https://web.archive.org/web/20240304182733/https://www.youtube.com/watch?v=62vWvzTlur0 NEED_VPN_FR
+
 ---
 ---
 ---
@@ -154,6 +162,10 @@ https://web.archive.org/web/20230324000730/https://www.youtube.com/watch?v=3GT3g
 
 https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd0dyB00
 
+## 2021-11-17 @ARTE - Le mystère Satoshi : enquête sur l'inventeur du bitcoin | fka Le mystère Satoshi, aux origines du Bitcoin
+
+https://web.archive.org/web/20211117180116/https://www.youtube.com/watch?v=0ETcLj5jBy4 NEED_VPN_FR
+
 ## 2021-12-23 @CryptoRizon - SUR QUELLES CRYPTOS INVESTIR EN 2022 ? JE VOUS EXPLIQUE MON MONEY MANAGEMENT + ICO GALEON !
 
 https://web.archive.org/web/20220925102100/https://www.youtube.com/watch?v=pJfXU3YDwg8
@@ -165,6 +177,10 @@ https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEge
 ## 2022-01-17 @MoneyRadar - 🚀 TERRA LUNA - LA BLOCKCHAIN QUI CRÉE DES MILLIONAIRES
 
 https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0
+
+## 2023-10-31 @ARTE - Capitalisme américain, le culte de la richesse 1/3
+
+https://web.archive.org/web/20231103202051/https://www.youtube.com/watch?v=0j1UDBqR-oM
 
 ## 2023-12-25 @Cannizzaro - Clock with Invisible Mechanism Using Arduino
 
@@ -242,6 +258,10 @@ https://www.youtube.com/watch?v=7FZ-0Q9208I&t=728s
 ## 2022-03-08 Dubai Marina Walk Daylight [No commentary 60fps 1080p]
 
 https://www.youtube.com/watch?v=spL0ThlX1oM&t=388s
+
+## 2023-10-31 @ARTE - Capitalisme américain, le culte de la richesse 3/3
+
+https://youtu.be/JOQ2bj54-e0
 
 ## Wolfenstein II- The New Colossus - Walkthrough Part 1 - [4K-60FPS]
 
