@@ -298,7 +298,7 @@ https://youtu.be/afWk1frjoHU
 ---
 ---
 
-# ❓DELETED_VIDEO_LOST_LINK
+# `❓DELETED_VIDEO_LOST_LINK`
 
 ## 2015-02-23 @Oussama Ammar - Epitech 3h
 
