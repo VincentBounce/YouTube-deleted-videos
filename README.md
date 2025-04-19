@@ -1,4 +1,4 @@
-# 🗑️YouTube unlisted/deleted videos
+# 📺🗑️YouTube unlisted/deleted videos
 
 ---
 ---
