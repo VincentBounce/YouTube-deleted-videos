@@ -132,6 +132,10 @@ https://web.archive.org/web/20241223123930/https://www.youtube.com/watch?v=uccQq
 
 https://web.archive.org/web/20240304182733/https://www.youtube.com/watch?v=62vWvzTlur0 NEED_VPN_FR
 
+## 2024-05-07 @KingSener - iPhone 15 Pro Storage Expansion | 128GB To 1TB
+
+https://web.archive.org/web/20240510051035/https://www.youtube.com/watch?v=breg0bQS83U
+
 ---
 ---
 ---
