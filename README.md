@@ -22,6 +22,10 @@ https://youtu.be/sIIUMLC3XfU
 
 https://youtu.be/03qgI3WL2_8
 
+## 2022-09-12 @Kingston Technology - XTS-AES Encryption – Kingston IronKey™ Keypad 200 hardware-encrypted USB drive
+
+https://youtu.be/5VT0aenY1ck
+
 ## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
 
 https://youtu.be/HCYwWudJxho
