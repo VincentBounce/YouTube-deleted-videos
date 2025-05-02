@@ -18,6 +18,10 @@ https://youtu.be/Gi1u_STll0o
 
 https://youtu.be/sIIUMLC3XfU
 
+## 2021-01-16 @Game Preservation Society - 芸夢 [gei·mɯ] File #1 - Yūichi TOYAMA ～Pioneer of Modern Real-Time Strategy Games～ (English subs)
+
+https://youtu.be/EnBZvyxTVaU
+
 ## 2022-07-13 @France Identité - Présentation de l'application France Identité
 
 https://youtu.be/03qgI3WL2_8
@@ -33,6 +37,14 @@ https://youtu.be/HCYwWudJxho
 ## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
 
 https://youtu.be/UobmLsDbiTg
+
+## 2023-03-22 @Sanctuary AI - Human-like Intelligence in General-Purpose Robots | SGTP - Episode 1
+
+https://youtu.be/C4wEhr2m9vs
+
+## 2023-03-29 @Sanctuary AI - LLMs, Nature of Consciousness, and General-Purpose Technology | SGTP Episode 2
+
+https://youtu.be/NFOxucn5low
 
 ---
 ---
