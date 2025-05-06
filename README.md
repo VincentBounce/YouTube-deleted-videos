@@ -116,6 +116,12 @@ https://web.archive.org/web/20210323165956/https://www.youtube.com/watch?v=ApwGT
 
 https://web.archive.org/web/20210709185722/https://www.youtube.com/watch?v=G7kvA10PnlY
 
+## 2021-09-22 @Technewledgy - A dad uses a giant drone to lift his kid: The end is so scary!
+
+https://web.archive.org/web/20210924082034/https://www.youtube.com/watch?v=-yYSbMD2ri4
+
+> This video has been removed for violating YouTube's Community Guidelines
+
 ## 2021-10-15 @l'Observateur - Ce que Zemmour n'a pas compris ( et pourquoi il devrait m'écouter )
 
 https://web.archive.org/web/20211015180204/https://www.youtube.com/watch?v=n8SVVKBx9Gw
