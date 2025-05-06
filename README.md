@@ -50,6 +50,10 @@ https://youtu.be/C4wEhr2m9vs
 
 https://youtu.be/NFOxucn5low
 
+## 2025-04-25 @Windows - Recall on Copilot+ PCs: A better way to recall anything
+
+https://youtu.be/XoXODYYkLqo
+
 ---
 ---
 ---
