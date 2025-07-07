@@ -314,6 +314,10 @@ https://www.youtube.com/watch?v=spL0ThlX1oM&t=388s
 
 https://youtu.be/JOQ2bj54-e0
 
+## 2024-04-01 @FrenchWithElle - Speak French but why?
+
+https://youtu.be/w9NC1cLvsU4
+
 ## 2024-05-07 ?
 
 https://youtu.be/breg0bQS83U?t=30
