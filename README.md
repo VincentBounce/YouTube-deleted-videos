@@ -219,9 +219,9 @@ https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVc
 
 ## Wolfenstein- The New Order - LongPlay [4K-60FPS]
 
-[https://youtu.be/6kfG5B_hj2A](https://web.archive.org/web/20201014193504/https://www.youtube.com/watch?v=6kfG5B_hj2A&feature=youtu.be)
+https://web.archive.org/web/20201014193504/https://www.youtube.com/watch?v=6kfG5B_hj2A&feature=youtu.be
 
-## Misc
+## ➕Misc
 
 https://web.archive.org/web/20221126120948/https://www.youtube.com/watch?v=ytsG09_8uDQ
 
@@ -303,7 +303,7 @@ https://youtu.be/N3wPeYUM2dQ
 
 https://youtu.be/AeYOILf6QXI
 
-## Misc
+## ➕Misc
 
 https://youtu.be/CQtsDc67LlQ
 
