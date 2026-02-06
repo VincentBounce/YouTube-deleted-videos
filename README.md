@@ -209,6 +209,11 @@ https://web.archive.org/web/20240604040035/https://www.youtube.com/watch?v=P3rhE
 
 https://web.archive.org/web/20221212010406/https://www.youtube.com/watch?v=CQtsDc67LlQ
 
+## 2021-06-16 DUEL DE CONSTRUCTION MINECRAFT (C'est honteux mdr) YT
+
+https://web.archive.org/web/20210616030318/https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVpapLtmB3X4&gl=DE&m=0&pc=yt&uxe=23983172&hl=en&src=1 \
+= https://www.youtube.com/watch?v=VpapLtmB3X4
+
 ## 2021-12-01 @Oseille TV - Je dévoile mon portefeuille CRYPTO [bcp de Terra/Luna]
 
 https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MROESwdw
@@ -216,11 +221,6 @@ https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MR
 ## 30 Graphically Impressive DOS games from the 90's - MS-DOS gaming - DOSBOX (best graphics)
 
 https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVcM_-Q54
-
-## DUEL DE CONSTRUCTION MINECRAFT (C'est honteux mdr) YT
-
-https://web.archive.org/web/20210616030318/https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVpapLtmB3X4&gl=DE&m=0&pc=yt&uxe=23983172&hl=en&src=1 \
-= https://www.youtube.com/watch?v=VpapLtmB3X4
 
 ## Wolfenstein- The New Order - LongPlay [4K-60FPS]
 
