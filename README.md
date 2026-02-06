@@ -11,7 +11,7 @@ I also have some video titles without any other information saved under this cat
 
 - `❓DELETED_VIDEO_LOST_LINK`
 
-YouTube also offers to keep a video, but only accessible with a link
+YouTube also offers to keep a video, but only accessible with a link:
 
 - `🥷🏻UNLISTED_VIDEO`
 
