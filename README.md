@@ -217,6 +217,11 @@ https://web.archive.org/web/20220303034406/https://www.youtube.com/watch?v=2R_MR
 
 https://web.archive.org/web/20240913152255/https://www.youtube.com/watch?v=a3iVcM_-Q54
 
+## DUEL DE CONSTRUCTION MINECRAFT (C'est honteux mdr) YT
+
+https://web.archive.org/web/20210616030318/https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVpapLtmB3X4&gl=DE&m=0&pc=yt&uxe=23983172&hl=en&src=1 \
+= https://www.youtube.com/watch?v=VpapLtmB3X4
+
 ## Wolfenstein- The New Order - LongPlay [4K-60FPS]
 
 https://web.archive.org/web/20201014193504/https://www.youtube.com/watch?v=6kfG5B_hj2A&feature=youtu.be
