@@ -1,66 +1,19 @@
 # 📺🗑️YouTube unlisted/deleted videos
 
----
----
----
+https://web.archive.org/ can archive videos among 4 status:
 
-# `🥷🏻UNLISTED_VIDEO`
+- `✅DELETED_VIDEO_FULLY_ARCHIVED`
+- `💬DELETED_VIDEO_PAGE_ARCHIVED`
+- `⤴️DELETED_VIDEO_LINK_ARCHIVED`
+- `❌DELETED_VIDEO_NOTHING_ARCHIVED`
 
-## 2017-08-04 @MIT Media Lab - DeepMoji
+I also have some video titles without any other information saved under this category:
 
-https://youtu.be/u_JwYxtjzUs
+- `❓DELETED_VIDEO_LOST_LINK`
 
-## 2018-02-18 @LongplayArchive - Longplay of Mega Man [Old]
+YouTube also offers to keep a video, but only accessible with a link
 
-https://youtu.be/Gi1u_STll0o
-
-## 2020-01-27 @Sencha - Ext JS D3 Treemap Component
-
-https://youtu.be/TlzVvc47ADE
-
-## 2020-11-02 @Honda Global - ASIMO 20th Anniversary
-
-https://youtu.be/sIIUMLC3XfU
-
-## 2021-01-16 @Game Preservation Society - 芸夢 [gei·mɯ] File #1 - Yūichi TOYAMA ～Pioneer of Modern Real-Time Strategy Games～ (English subs)
-
-https://youtu.be/EnBZvyxTVaU
-
-## 2022-07-13 @France Identité - Présentation de l'application France Identité
-
-https://youtu.be/03qgI3WL2_8
-
-## 2022-09-12 @Kingston Technology - XTS-AES Encryption – Kingston IronKey™ Keypad 200 hardware-encrypted USB drive
-
-https://youtu.be/5VT0aenY1ck
-
-## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
-
-https://youtu.be/HCYwWudJxho
-
-## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
-
-https://youtu.be/UobmLsDbiTg
-
-## 2023-03-22 @Sanctuary AI - Human-like Intelligence in General-Purpose Robots | SGTP - Episode 1
-
-https://youtu.be/C4wEhr2m9vs
-
-## 2023-03-29 @Sanctuary AI - LLMs, Nature of Consciousness, and General-Purpose Technology | SGTP Episode 2
-
-https://youtu.be/NFOxucn5low
-
-## 2023-04-29 @Le Déclic par Alec Henry - Les coulisses du Business en Ligne ; découvrez les secrets bien gardés des mastodontes du marché
-
-https://youtu.be/mOg6jrKznZk
-
-## 2025-04-25 @Windows - Recall on Copilot+ PCs: A better way to recall anything
-
-https://youtu.be/XoXODYYkLqo
-
-## 2025-05-15 @Ledger - Inside a Backdoored Crypto Card: Donjon Security Test
-
-https://youtu.be/9keL_JBx76I
+- `🥷🏻UNLISTED_VIDEO`
 
 ---
 ---
@@ -228,6 +181,10 @@ https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEge
 
 https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0
 
+## 2022-11-27 @FUN STEREOGRAM 3D - AMAZING STEREOGRAM WITH ANSWER || Fun Stereogram-PART 36 #stereogram #magic #magiceye
+
+https://web.archive.org/web/20230518074635/https://www.youtube.com/watch?v=KDcT1f1vGYw
+
 ## 2023-10-31 @ARTE - Capitalisme américain, le culte de la richesse 1/3
 
 https://web.archive.org/web/20231103202051/https://www.youtube.com/watch?v=0j1UDBqR-oM
@@ -361,3 +318,65 @@ https://youtu.be/afWk1frjoHU
 ## 2015-02-23 @Oussama Ammar - Epitech 3h
 
 ## 10 Most Shocking And Horrifying Moments Caught On Camera (Lutch Green Reupload).mp4
+
+---
+---
+---
+
+# `🥷🏻UNLISTED_VIDEO`
+
+## 2017-08-04 @MIT Media Lab - DeepMoji
+
+https://youtu.be/u_JwYxtjzUs
+
+## 2018-02-18 @LongplayArchive - Longplay of Mega Man [Old]
+
+https://youtu.be/Gi1u_STll0o
+
+## 2020-01-27 @Sencha - Ext JS D3 Treemap Component
+
+https://youtu.be/TlzVvc47ADE
+
+## 2020-11-02 @Honda Global - ASIMO 20th Anniversary
+
+https://youtu.be/sIIUMLC3XfU
+
+## 2021-01-16 @Game Preservation Society - 芸夢 [gei·mɯ] File #1 - Yūichi TOYAMA ～Pioneer of Modern Real-Time Strategy Games～ (English subs)
+
+https://youtu.be/EnBZvyxTVaU
+
+## 2022-07-13 @France Identité - Présentation de l'application France Identité
+
+https://youtu.be/03qgI3WL2_8
+
+## 2022-09-12 @Kingston Technology - XTS-AES Encryption – Kingston IronKey™ Keypad 200 hardware-encrypted USB drive
+
+https://youtu.be/5VT0aenY1ck
+
+## 2022-11-18 @EGO - L'IA qui est en train de casser Rocket League.
+
+https://youtu.be/HCYwWudJxho
+
+## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
+
+https://youtu.be/UobmLsDbiTg
+
+## 2023-03-22 @Sanctuary AI - Human-like Intelligence in General-Purpose Robots | SGTP - Episode 1
+
+https://youtu.be/C4wEhr2m9vs
+
+## 2023-03-29 @Sanctuary AI - LLMs, Nature of Consciousness, and General-Purpose Technology | SGTP Episode 2
+
+https://youtu.be/NFOxucn5low
+
+## 2023-04-29 @Le Déclic par Alec Henry - Les coulisses du Business en Ligne ; découvrez les secrets bien gardés des mastodontes du marché
+
+https://youtu.be/mOg6jrKznZk
+
+## 2025-04-25 @Windows - Recall on Copilot+ PCs: A better way to recall anything
+
+https://youtu.be/XoXODYYkLqo
+
+## 2025-05-15 @Ledger - Inside a Backdoored Crypto Card: Donjon Security Test
+
+https://youtu.be/9keL_JBx76I
