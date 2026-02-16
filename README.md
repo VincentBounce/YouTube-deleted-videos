@@ -21,6 +21,12 @@ YouTube also offers to keep a video, but only accessible with a link:
 
 # `✅DELETED_VIDEO_FULLY_ARCHIVED`
 
+## 2012-06-05 @Glove and Boots - Vertical Video Syndrome - A PSA
+
+https://web.archive.org/web/20140501024128/https://www.youtube.com/watch?v=Bt9zSfinwFA
+
+> 2012-09-27 @Jo Miran's Silk and Dookies - Vertical Video Syndrome A PSA (Glove and Boots) https://youtu.be/dechvhb0Meo reupload
+
 ## 2012-10-22 @OtakuChest - Prince of Persia (1989) MS-DOS PC Game Playthrough
 
 https://web.archive.org/web/20140329010033/http://www.youtube.com/watch?v=Xv20j8ChtRY
