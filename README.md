@@ -352,6 +352,10 @@ https://youtu.be/TlzVvc47ADE
 
 https://youtu.be/sIIUMLC3XfU
 
+## 2020-11-24 @TRYFG 𒀱TRYFG 𒀱TRYFG 𒀱TRYFG 𒀱TRYFG 𒀱TRYFG - TRYFG ☆, PSYCHIC DRIVING ON 20 INCH CHROME (PK REMIX) [official visualizer]
+
+https://youtu.be/PgXIowbyJeQ
+
 ## 2021-01-16 @Game Preservation Society - 芸夢 [gei·mɯ] File #1 - Yūichi TOYAMA ～Pioneer of Modern Real-Time Strategy Games～ (English subs)
 
 https://youtu.be/EnBZvyxTVaU
