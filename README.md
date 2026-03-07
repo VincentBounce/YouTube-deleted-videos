@@ -340,6 +340,10 @@ https://youtu.be/afWk1frjoHU
 
 https://youtu.be/u_JwYxtjzUs
 
+## 2018-01-22 @Misc - Razer at CES 2018: Project Linda USB Type-C
+
+https://youtu.be/1yKyIBMFJ28
+
 ## 2018-02-18 @LongplayArchive - Longplay of Mega Man [Old]
 
 https://youtu.be/Gi1u_STll0o
