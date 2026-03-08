@@ -336,6 +336,10 @@ https://youtu.be/afWk1frjoHU
 
 # `🥷🏻UNLISTED_VIDEO`
 
+## 2016-10-23 @Vinh Dang - Das Keyboard 4 Professional Review (Cherry MX Brown)
+
+https://youtu.be/pUOpRG3NysM
+
 ## 2017-08-04 @MIT Media Lab - DeepMoji
 
 https://youtu.be/u_JwYxtjzUs
