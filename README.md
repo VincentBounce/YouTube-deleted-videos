@@ -139,6 +139,10 @@ https://web.archive.org/web/20240510051035/https://www.youtube.com/watch?v=breg0
 
 # `💬DELETED_VIDEO_PAGE_ARCHIVED`
 
+## 2015-11-08 @Connect Creative - Steve Jobs introduces Apple TV 2 Apple Special Event 2010
+
+https://web.archive.org/web/20250722122949/https://www.youtube.com/watch?v=HcG5zc9vsxo
+
 ## 2016-05-24 @Synn - Shock Troopers- 2nd Squad (Complete Playthrough)
 
 https://web.archive.org/web/20201214073225/https://www.youtube.com/watch?v=P-htRhTXkyw
