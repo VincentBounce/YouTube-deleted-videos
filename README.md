@@ -372,6 +372,10 @@ https://youtu.be/PgXIowbyJeQ
 
 https://youtu.be/EnBZvyxTVaU
 
+## 2022-05-31 @Vox - Bonus video: What AI art means for human artists
+
+https://youtu.be/sFBfrZ-N3G4
+
 ## 2022-07-13 @France Identité - Présentation de l'application France Identité
 
 https://youtu.be/03qgI3WL2_8
