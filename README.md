@@ -302,6 +302,10 @@ https://www.youtube.com/watch?v=spL0ThlX1oM&t=388s
 
 https://youtu.be/JOQ2bj54-e0
 
+## 2023-05-xx The Lexus Hoverboard
+
+https://web.archive.org/web/20230526141407/https://www.youtube.com/watch?v=7KtzyZKSuls
+
 ## 2024-04-01 @FrenchWithElle - Speak French but why?
 
 https://youtu.be/w9NC1cLvsU4
