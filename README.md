@@ -246,13 +246,17 @@ https://web.archive.org/web/20221126120948/https://www.youtube.com/watch?v=ytsG0
 
 # `❌DELETED_VIDEO_NOTHING_ARCHIVED`
 
-## 1996 Leisure Suit Larry 7- Love for Sail - DOS MacOS
+## 1996-xx-xx Leisure Suit Larry 7- Love for Sail - DOS MacOS
 
 https://youtu.be/ZwSIkkMUIg8&list=PLbva9Q_FRdb6AwrTDDfhrk9bK3DN642o3
 
-## 2009 Leisure Suit Larry 9- Box Office Bust - PC PS3 Xbox360
+## 2009-xx-xx Leisure Suit Larry 9- Box Office Bust - PC PS3 Xbox360
 
 https://youtu.be/zPhEKdyTccc
+
+## 2019-06-28 @Discover Lexus - The Lexus Hoverboard: It's Here
+
+https://youtu.be/vhCcC2smGMI
 
 ## ≤2020-02-20 COMMENT MONTER UNE VIDEO (facile et gratuit)
 
