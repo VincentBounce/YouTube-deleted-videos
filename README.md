@@ -258,6 +258,18 @@ https://youtu.be/zPhEKdyTccc
 
 https://youtu.be/vhCcC2smGMI
 
+## 2019-06-28 @Discover Lexus - The Lexus Hoverboard: The Story
+
+https://youtu.be/oyGlNLpQ7CQ
+
+## 2019-06-28 @Discover Lexus - The Lexus Hoverboard: The Science
+
+https://youtu.be/qGiGMX0t3_U
+
+## 2019-06-28 @Discover Lexus - The Lexus Hoverboard: Evolution
+
+https://youtu.be/u7uwHXj3BDE
+
 ## ≤2020-02-20 COMMENT MONTER UNE VIDEO (facile et gratuit)
 
 https://youtu.be/%5fvLJhjS-LQY
