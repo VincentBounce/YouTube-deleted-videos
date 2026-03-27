@@ -113,6 +113,10 @@ https://web.archive.org/web/20230118171406/https://www.youtube.com/watch?v=slOav
 
 https://web.archive.org/web/20240325204809/https://www.youtube.com/watch?v=mvseKO9W3vg
 
+## 2023-06-05 @Apple - Introducing Apple Vision Pro
+
+https://web.archive.org/web/20230605190948/https://www.youtube.com/watch?v=TX9qSaGXFyg
+
 ## 2023-10-27 @XPENG Robotics - Dexterous Robot Hand Showcase
 
 https://web.archive.org/web/20240309070911/https://www.youtube.com/watch?v=_q5vFhWiZnA
