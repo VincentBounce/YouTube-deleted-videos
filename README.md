@@ -35,10 +35,6 @@ https://web.archive.org/web/20140329010033/http://www.youtube.com/watch?v=Xv20j8
 
 https://web.archive.org/web/20190115084251/https://www.youtube.com/watch?v=HVuEd742Yyg
 
-## 2014-09-26 @Memories in 8Bit - NES cartridge battery replacement
-
-https://web.archive.org/web/20201123182052/https://www.youtube.com/watch?v=sEBtFidx3zY
-
 ## 2015-01-17 @VoyAtari - Near by Agenda (Atari XL/XE 128kB) [720p50]
 
 https://web.archive.org/web/20150309145011/https://www.youtube.com/watch?v=9EAG_811b4o
@@ -142,6 +138,10 @@ https://web.archive.org/web/20240510051035/https://www.youtube.com/watch?v=breg0
 ---
 
 # `💬DELETED_VIDEO_PAGE_ARCHIVED`
+
+## 2014-09-26 @Memories in 8Bit - NES cartridge battery replacement
+
+https://web.archive.org/web/20201123182052/https://www.youtube.com/watch?v=sEBtFidx3zY
 
 ## 2015-11-08 @Connect Creative - Steve Jobs introduces Apple TV 2 Apple Special Event 2010
 
