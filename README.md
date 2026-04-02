@@ -161,7 +161,11 @@ https://web.archive.org/web/20191101025721/https://www.youtube.com/watch?v=RtkKg
 
 ## 2018-01-21 @France 2 - Franky Zapata, voler à tout prix
 
-https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpPAx4vHg&feature=youtu.be 
+https://web.archive.org/web/20201220200617/https://www.youtube.com/watch?v=JORpPAx4vHg&feature=youtu.be
+
+## 2019-01-19 @Les Rebondisseurs Français - Steve Jobs - 1984 - En France, l'échec c'est grave
+
+https://web.archive.org/web/20200228145712/https://m.youtube.com/watch?v=g0fbm5Ws5XY
 
 ## 2019-01-27 @Yugen France - L'Histoire de l'Univers en 10 minutes
 
