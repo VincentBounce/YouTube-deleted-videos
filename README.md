@@ -59,6 +59,10 @@ https://web.archive.org/web/20170217123215/https://www.youtube.com/watch?v=BJg-3
 
 https://web.archive.org/web/20220614052523/https://www.youtube.com/watch?v=0DBXuZv38l8
 
+## 2018-01-21 @hirudov2d - Apple II Longplay - Prince of Persia
+
+https://web.archive.org/web/20200928121002/https://www.youtube.com/watch?v=JZDAPp61aak
+
 ## 2018-10-13 @Minase - [60FPS] DOOM (1993) LONGPLAY
 
 https://web.archive.org/web/20201130110353/https://www.youtube.com/watch?v=iFnOLFd_ByQ
