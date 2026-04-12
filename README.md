@@ -21,6 +21,11 @@ YouTube also offers to keep a video, but only accessible with a link:
 
 # `✅DELETED_VIDEO_FULLY_ARCHIVED`
 
+## 2006-09-25 @Xyliex - Leek Spin
+
+https://web.archive.org/web/20070313044520/http://www.youtube.com/watch?v=1wnE4vF9CQ4
+https://web.archive.org/web/20141005081530/https://www.youtube.com/watch?v=1wnE4vF9CQ4
+
 ## 2012-06-05 @Glove and Boots - Vertical Video Syndrome - A PSA
 
 https://web.archive.org/web/20140501024128/https://www.youtube.com/watch?v=Bt9zSfinwFA
@@ -146,6 +151,10 @@ https://web.archive.org/web/20240510051035/https://www.youtube.com/watch?v=breg0
 ## 2014-09-26 @Memories in 8Bit - NES cartridge battery replacement
 
 https://web.archive.org/web/20201123182052/https://www.youtube.com/watch?v=sEBtFidx3zY
+
+## 2015-03-29 @MikuHatsuneVEVO - Miku Hatsune - Ievan Polkka
+
+https://web.archive.org/web/20170306094547/https://www.youtube.com/watch?v=qmf9JkedPR8&feature=youtu.be
 
 ## 2015-11-08 @Connect Creative - Steve Jobs introduces Apple TV 2 Apple Special Event 2010
 
