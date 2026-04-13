@@ -456,3 +456,7 @@ https://youtu.be/XoXODYYkLqo
 ## 2025-05-15 @Ledger - Inside a Backdoored Crypto Card: Donjon Security Test
 
 https://youtu.be/9keL_JBx76I
+
+## 2026-03-31 @Vincent GR - StuntCar
+
+https://youtu.be/YphOy-OpIvc
