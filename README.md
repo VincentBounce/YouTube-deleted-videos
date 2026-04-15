@@ -36,6 +36,10 @@ https://web.archive.org/web/20140501024128/https://www.youtube.com/watch?v=Bt9zS
 
 https://web.archive.org/web/20140329010033/http://www.youtube.com/watch?v=Xv20j8ChtRY
 
+## 2013-08-13 @Logitech - Logitech Wireless All-in-One keyboard tk820
+
+https://web.archive.org/web/20200905214636/https://www.youtube.com/watch?v=oegk8qlF7Jg&feature=youtu.be
+
 ## 2014-07-21 @VoyAtari - Numen demo by Taquart - Atari XL/XE (full length HQ)
 
 https://web.archive.org/web/20190115084251/https://www.youtube.com/watch?v=HVuEd742Yyg
