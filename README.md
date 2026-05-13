@@ -26,6 +26,10 @@ YouTube also offers to keep a video, but only accessible with a link:
 https://web.archive.org/web/20070313044520/http://www.youtube.com/watch?v=1wnE4vF9CQ4
 https://web.archive.org/web/20141005081530/https://www.youtube.com/watch?v=1wnE4vF9CQ4
 
+## 2008-03-12 @Spaddlewit - SRB2 2.0 Preview
+
+https://web.archive.org/web/20110711213708/http://www.youtube.com/watch?v=IMq_6N5RkCk&fmt=18
+
 ## 2012-06-05 @Glove and Boots - Vertical Video Syndrome - A PSA
 
 https://web.archive.org/web/20140501024128/https://www.youtube.com/watch?v=Bt9zSfinwFA
