@@ -224,6 +224,10 @@ https://web.archive.org/web/20220116175221/https://www.youtube.com/watch?v=8OEge
 
 https://web.archive.org/web/20220117174452/https://www.youtube.com/watch?v=oZC7Z0k3CR0
 
+## 2022-02-27 @Sonoo's KB - How to install Ubuntu 22.04 on Hyper-v in Windows 11
+
+https://web.archive.org/web/20220921232945/https://www.youtube.com/watch?v=hvsJsn5-gDg
+
 ## 2022-11-27 @FUN STEREOGRAM 3D - AMAZING STEREOGRAM WITH ANSWER || Fun Stereogram-PART 36 #stereogram #magic #magiceye
 
 https://web.archive.org/web/20230518074635/https://www.youtube.com/watch?v=KDcT1f1vGYw
