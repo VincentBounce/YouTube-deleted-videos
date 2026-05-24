@@ -204,6 +204,10 @@ https://web.archive.org/web/20230324000730/https://www.youtube.com/watch?v=3GT3g
 
 https://web.archive.org/web/20211109153921/https://www.youtube.com/watch?v=CTIBd0dyB00
 
+## 2021-09-26 @GameplayArchive - Broforce Gameplay Walkthrough FULL Game - No Commentary Longplay (PC)
+
+https://web.archive.org/web/20220902050316/https://m.youtube.com/watch?v=Q_wQIKXG5rE
+
 ## 2021-11-17 @ARTE - Le mystère Satoshi : enquête sur l'inventeur du bitcoin | fka Le mystère Satoshi, aux origines du Bitcoin
 
 https://web.archive.org/web/20211117180116/https://www.youtube.com/watch?v=0ETcLj5jBy4 NEED_VPN_FR
