@@ -437,6 +437,10 @@ https://youtu.be/PgXIowbyJeQ
 
 https://youtu.be/EnBZvyxTVaU
 
+## 2021-10-23 @Kane - Level 1 Zombie Panic, Zombies Ate My Neighbors PC
+
+https://youtu.be/hEYF1WiBhws | https://www.youtube.com/playlist?list=PLfjvSS_lCvWnjSIexbkHcahzlPnSOgK8O
+
 ## 2022-05-31 @Vox - Bonus video: What AI art means for human artists
 
 https://youtu.be/sFBfrZ-N3G4
