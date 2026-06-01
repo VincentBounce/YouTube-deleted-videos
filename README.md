@@ -457,6 +457,10 @@ https://youtu.be/5VT0aenY1ck
 
 https://youtu.be/HCYwWudJxho
 
+## 2022-11-30 @Microsoft Surface - Repair | Surface Studio 2+
+
+https://youtu.be/KFPJ2s26JUw
+
 ## 2022-12-21 @EGO - Rocket League est le jeu le plus dur du monde.
 
 https://youtu.be/UobmLsDbiTg
