@@ -405,6 +405,10 @@ https://youtu.be/afWk1frjoHU
 
 # `🥷🏻UNLISTED_VIDEO`
 
+## 2016-10-19 @Science Museum - How do you build a robot
+
+https://youtu.be/eaPNMEJWnfo
+
 ## 2016-10-23 @Vinh Dang - Das Keyboard 4 Professional Review (Cherry MX Brown)
 
 https://youtu.be/pUOpRG3NysM
